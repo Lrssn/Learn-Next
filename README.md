@@ -5,3 +5,8 @@ Next.js and Typescript tutorials mixed with web design and UI/UX-design
 - [ ] Next
 - [ ] SASS
 - [ ] GraphQL
+
+# Tasks
+- [ ] Create Static webpage in react
+- [ ] Publish to Github Pages
+- [ ] Connect domain to Github Pages
