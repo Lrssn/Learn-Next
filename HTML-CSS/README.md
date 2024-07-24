@@ -2,7 +2,7 @@
 Just some quick tutorials to get reminded by the basics
 
 ## Video Tutorials
-- [ ] [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE&list=WL&index=4)
+- [x] [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE&list=WL&index=4)
 - [ ] [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI&list=WL&index=6)
 - [ ] [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 
