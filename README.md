@@ -1,12 +1,26 @@
 # learn-next
 Next.js and Typescript tutorials mixed with web design and UI/UX-design
+### Web Development
 - [ ] HTML/CSS
 - [ ] React
 - [ ] Next
 - [ ] SASS
 - [ ] GraphQL
+### Web design
+- [ ] Penpot
+- [ ] Inkscape
+- [ ] Krita
 
 # Tasks
-- [ ] Create Static webpage in react
+## React
+- [ ] Create Static webpage in HTML/CSS
 - [ ] Publish to Github Pages
 - [ ] Connect domain to Github Pages
+- [ ] Create Static webpage in React
+- [ ] Switch CSS to SASS
+
+## UI/UX
+- [ ] Create a logo design
+- [ ] Create Logo in inkscape/Krita
+- [ ] Draw mockup with pen and paper
+- [ ] Design Mockup in Penpot
