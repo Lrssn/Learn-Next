@@ -1,4 +1,4 @@
-# HTML/CSS
+# HTML/CSS/JS
 Just some quick tutorials to get reminded by the basics
 
 ## Video Tutorials

@@ -1,7 +1,7 @@
 # learn-next
 Next.js and Typescript tutorials mixed with web design and UI/UX-design
 ### Web Development
-- [ ] HTML/CSS
+- [ ] HTML/CSS/JS
 - [ ] React
 - [ ] SASS
 - [ ] Typescript
