@@ -18,8 +18,8 @@ Next.js and Typescript tutorials mixed with web design and UI/UX-design
 - [ ] Create Static webpage in HTML/CSS
 - [ ] Publish to Github Pages
 - [ ] Connect domain to Github Pages
-- [ ] Create Static webpage in React
 - [ ] Switch CSS to SASS
+- [ ] Create Static webpage in React and Gatsby
 - [ ] Switch JS to TS
 - [ ] Move everything over to Nextjs
 
